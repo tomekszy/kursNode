@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const requestHandler = (req,res) => {
+const requestHandler = (req, res) => {
     const url = req.url;
     const method = req.method;
     if (url === '/') {
@@ -30,7 +30,7 @@ const requestHandler = (req,res) => {
             const message = parsedBody.split('=')[1];
             fs.writeFile(fileName, message, (err) => {
                 res.statusCode = 302;
-                res.setHeader('Location','/');
+                res.setHeader('Location', '/');
                 return res.end();
             });
         });
