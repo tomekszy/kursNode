@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tomekszy/kursNode/issues"
   },
-  "homepage": "https://github.com/tomekszy/kursNode#readme"
+  "homepage": "https://github.com/tomekszy/kursNode#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
