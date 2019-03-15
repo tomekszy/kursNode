@@ -1,0 +1,21 @@
+{
+  "name": "kursnode",
+  "version": "1.0.0",
+  "description": "Kurs NodeJS z Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomekszy/kursNode.git"
+  },
+  "author": "tszymanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomekszy/kursNode/issues"
+  },
+  "homepage": "https://github.com/tomekszy/kursNode#readme"
+}
