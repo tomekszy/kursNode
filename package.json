@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "nodemon app.js",
     "start-server": "node app.js"
   },
   "repository": {
@@ -18,7 +18,8 @@
     "url": "https://github.com/tomekszy/kursNode/issues"
   },
   "homepage": "https://github.com/tomekszy/kursNode#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nodemon": "^1.18.10"
   }
 }
