@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdbc74e8-f165-4322-8460-913cb74a4345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.old.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/first-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/hello.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/play.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/play.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/routes.js" afterDir="false" />
-    </list>
+    <list default="true" id="fdbc74e8-f165-4322-8460-913cb74a4345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -161,7 +149,7 @@
       <workItem from="1552649602392" duration="4957000" />
       <workItem from="1552902873242" duration="3595000" />
       <workItem from="1552986453979" duration="1234000" />
-      <workItem from="1553078146790" duration="3674000" />
+      <workItem from="1553078146790" duration="4901000" />
     </task>
     <task id="LOCAL-00001" summary="module exports">
       <created>1552401290272</created>
@@ -184,11 +172,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552658760655</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="express.js router">
+      <created>1553084994692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553084994692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38841000" />
+    <option name="totallyTimeSpent" value="40068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1058" y="-373" width="1066" height="1656" extended-state="6" />
@@ -220,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module exports" />
     <MESSAGE value="Sekcja 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sekcja 5" />
+    <MESSAGE value="express.js router" />
+    <option name="LAST_COMMIT_MESSAGE" value="express.js router" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
